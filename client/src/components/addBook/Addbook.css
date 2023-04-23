@@ -1,0 +1,39 @@
+.addbookcontainer{
+    margin-top: 50px;
+    text-align: center;
+    width: 50%;
+    height: 850px;
+    margin-left: 570px;
+    border: 2px solid black;
+    background-color: rgb(40, 6, 72);
+}
+
+h1{
+    color: white;
+    font-size: 45px;
+}
+
+h4{
+    color: white;
+    font-size: 30px;
+}
+
+.show_book{
+    padding: 10px;
+    width: 140px;
+    cursor: pointer;
+    color: black;
+    background-color: red;
+    margin-top: 10px;
+    font-size:20px;
+    
+}
+
+.addBookbtn{
+    padding: 15px;
+    width: 400px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(6, 222, 52);
+    margin-top: 40px;
+}
